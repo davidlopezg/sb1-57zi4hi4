@@ -3,7 +3,7 @@ import { MessageSquare, Send, Menu, Plus } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
-import { Separator } from '@/components/ui/separator';
+//import { Separator } from '@/components/ui/separator';
 import ChatMessage from '@/components/ChatMessage';
 import Sidebar from '@/components/Sidebar';
 
